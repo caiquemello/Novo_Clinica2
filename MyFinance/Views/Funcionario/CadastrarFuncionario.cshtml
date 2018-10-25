@@ -1,0 +1,49 @@
+﻿@model FuncionarioModel
+
+@{
+    ViewData["Title"] = "Cadastrar Funcionario";
+}
+
+<h3>Cadastrar Funcionario</h3>
+
+<form asp-controller="Funcionario" asp-action="CadastrarFuncionario">
+
+    <div class="form-group">
+        <label>Nome:</label>
+        <input type="text" class="form-control" asp-for="Nome">
+        <span asp-validation-for="Nome" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>CPF:</label>
+        <input type="number" class="form-control" asp-for="Cpf">
+        <span asp-validation-for="Cpf" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>RG:</label>
+        <input type="number" class="form-control" asp-for="Rg">
+        <span asp-validation-for="Rg" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Email:</label>
+        <input type="text" class="form-control" asp-for="Email">
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Senha:</label>
+        <input type="text" class="form-control" asp-for="Senha">
+        <span asp-validation-for="Senha" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Data de Nascimento:</label>
+        <input type="date" class="form-control" asp-for="Data_Nascimento">
+        <span asp-validation-for="Data_Nascimento" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Telefone:</label>
+        <input type="text" class="form-control" asp-for="Telefone">
+        <span asp-validation-for="Telefone" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-block btn-success">Registrar</button>
+
+</form>

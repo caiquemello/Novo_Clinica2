@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Funcionario</h3>
+
+<table class="table table-bordered">    
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>ID</th>
+            <th>CPF</th>
+            <th>RG</th>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Telefone</th>
+            <th>Data de Nascimento</th>
+        </tr>
+    </thead>
+
+    @{
+        foreach (var item in (List<FuncionarioModel>)ViewBag.ListaFuncionario)
+        {
+            <tbody>
+                <tr>
+                    <td><button type="button" class="btn btn-danger" onclick="Excluir(@item.Id.ToString())">Excluir</button></td>
+                    <td>@item.Id.ToString()</td>
+                    <td>@item.Cpf.ToString()</td>
+                    <td>@item.Rg.ToString()</td>
+                    <td>@item.Nome.ToString()</td>
+                    <td>@item.Email.ToString()</td>
+                    <td>@item.Telefone.ToString()</td>
+                    <td>@item.Data_Nascimento.ToString()</td>
+                </tr>
+            </tbody>
+        }        
+    }
+
+</table>
+
+<button type="button" class="btn btn-block btn-primary" onclick="CriarConta()">Criar Conta</button>
+
+<script>
+    function CriarConta()
+    {
+        window.location.href = "../Funcionario/CadastrarFuncionario";        
+    }
+
+    function Excluir(id_conta)
+    {        
+        window.location.href = "../Funcionario/ExcluirConta/" + id_conta; 
+    }
+</script>

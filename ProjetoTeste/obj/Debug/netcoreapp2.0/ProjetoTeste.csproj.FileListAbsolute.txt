@@ -1,0 +1,36 @@
+D:\MyFinance\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\MyFinance\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\MyFinance\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\MyFinance\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.deps.json
+D:\MyFinance\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.runtimeconfig.json
+D:\MyFinance\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.runtimeconfig.dev.json
+D:\MyFinance\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.dll
+D:\MyFinance\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.pdb
+D:\MyFinance\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\MyFinance.dll
+D:\MyFinance\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\MyFinance.pdb
+D:\MyFinance\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.csprojResolveAssemblyReference.cache
+D:\MyFinance\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+D:\MyFinance\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.AssemblyInfoInputs.cache
+D:\MyFinance\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.AssemblyInfo.cs
+D:\MyFinance\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.csproj.CopyComplete
+D:\MyFinance\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.dll
+D:\MyFinance\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.pdb
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.deps.json
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.runtimeconfig.json
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.runtimeconfig.dev.json
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.dll
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\ProjetoTeste.pdb
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\MyFinance.dll
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\bin\Debug\netcoreapp2.0\MyFinance.pdb
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.csprojAssemblyReference.cache
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.AssemblyInfo.cs
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.csproj.CopyComplete
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.dll
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.pdb
+C:\Users\Caique melo\Desktop\Novo_Projetos\Clinica\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.dll
+C:\Users\Caique melo\Desktop\Novo_Projetos\Clinica\ProjetoTeste\obj\Debug\netcoreapp2.0\ProjetoTeste.pdb

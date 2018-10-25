@@ -1,0 +1,45 @@
+﻿@model ServicoModel
+
+@{
+    ViewData["Title"] = "CriarConta";
+}
+
+<h3>Criar Meus Serviços</h3>
+
+<form asp-controller="Servico" asp-action="CriarServico">
+
+    <div class="form-group">
+        <label>Tipo:</label>
+        <input type="text" class="form-control" asp-for="Tipo">
+        <span asp-validation-for="Tipo" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Nome:</label>
+        <input type="text" class="form-control" asp-for="Nome">
+        <span asp-validation-for="Nome" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Valor:</label>
+        <input type="number" class="form-control" asp-for="Valor">
+        <span asp-validation-for="Valor" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Observção:</label>
+        <input type="text" class="form-control" asp-for="Observacao">
+        <span asp-validation-for="Observacao" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Data Serviço:</label>
+        <input type="date" class="form-control" asp-for="Data_Servico">
+        <span asp-validation-for="Data_Servico" class="text-danger"></span>
+    </div>
+    @*<div class="form-group">
+        <label>Hora:</label>
+        <input type="t" class="form-control" asp-for="Hora">
+        <span asp-validation-for="Hora" class="text-danger"></span>
+    </div>*@
+
+    <button type="submit" class="btn btn-block btn-success">Registrar Servico</button>
+
+</form>
+

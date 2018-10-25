@@ -1,0 +1,71 @@
+﻿@model ClienteModel
+
+@{
+    ViewData["Title"] = "Cadastrar Cliente";
+}
+
+<h3>Cadastrar Cliente</h3>
+
+<form asp-controller="Cliente" asp-action="CadastrarCliente">
+    <div>
+        <label>Nome:</label>
+        <input type="text" class="form-control" asp-for="Nome">
+        <span asp-validation-for="Nome" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Cpf:</label>
+        <input type="number" class="form-control" asp-for="Cpf">
+        <span asp-validation-for="Cpf" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>RG:</label>
+        <input type="number" class="form-control" asp-for="Rg">
+        <span asp-validation-for="Rg" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Data de Nascimento:</label>
+        <input type="date" class="form-control" asp-for="Data_Nascimento">
+        <span asp-validation-for="Data_Nascimento" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Endereço:</label>
+        <input type="text" class="form-control" asp-for="Endereco">
+        <span asp-validation-for="Endereco" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Bairro:</label>
+        <input type="text" class="form-control" asp-for="Bairro">
+        <span asp-validation-for="Bairro" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Cidade:</label>
+        <input type="text" class="form-control" asp-for="Cidade">
+        <span asp-validation-for="Cidade" class="text-danger"></span>
+    </div>
+    @*<div class="form-group">
+        <label>Telefone:</label>
+        <input type="number" class="form-control" asp-for="Telefone">
+        <span asp-validation-for="Telefone" class="text-danger"></span>
+    </div>*@
+    <div class="form-group">
+        <label>Celular:</label>
+        <input type="tel" class="form-control" asp-for="Celular">
+        <span asp-validation-for="Celular" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Observão:</label>
+        <input type="tel" class="form-control" asp-for="Descricao">
+        <span asp-validation-for="Descricao" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Profissão:</label>
+        <input type="text" class="form-control" asp-for="Profissao">
+        <span asp-validation-for="Profissao" class="text-danger"></span>
+    </div>
+
+
+    <button type="submit" class="btn btn-block btn-success">Registrar Cliente</button>
+
+</form>
+

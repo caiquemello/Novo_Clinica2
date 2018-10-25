@@ -1,0 +1,11 @@
+D:\MyFinance\MyFinance\MyFinance\bin\Release\netcoreapp2.0\MyFinance.deps.json
+D:\MyFinance\MyFinance\MyFinance\bin\Release\netcoreapp2.0\MyFinance.runtimeconfig.json
+D:\MyFinance\MyFinance\MyFinance\bin\Release\netcoreapp2.0\MyFinance.runtimeconfig.dev.json
+D:\MyFinance\MyFinance\MyFinance\bin\Release\netcoreapp2.0\MyFinance.dll
+D:\MyFinance\MyFinance\MyFinance\bin\Release\netcoreapp2.0\MyFinance.pdb
+D:\MyFinance\MyFinance\MyFinance\obj\Release\netcoreapp2.0\MyFinance.csprojResolveAssemblyReference.cache
+D:\MyFinance\MyFinance\MyFinance\obj\Release\netcoreapp2.0\MyFinance.csproj.CoreCompileInputs.cache
+D:\MyFinance\MyFinance\MyFinance\obj\Release\netcoreapp2.0\MyFinance.AssemblyInfoInputs.cache
+D:\MyFinance\MyFinance\MyFinance\obj\Release\netcoreapp2.0\MyFinance.AssemblyInfo.cs
+D:\MyFinance\MyFinance\MyFinance\obj\Release\netcoreapp2.0\MyFinance.dll
+D:\MyFinance\MyFinance\MyFinance\obj\Release\netcoreapp2.0\MyFinance.pdb

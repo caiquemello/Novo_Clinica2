@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Minhas Consulta</h3>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>ID</th>
+            <th>Nome Do Serviço</th>
+            <th>Tipo</th>
+            <th>Valor do Serviço</th>
+            <th>Observação</th>
+            <th>Data Consulta</th>
+            <th>Nome do Pancinte</th>
+            <th>Forma de Pagamento</th>
+            <th>Nome do Funcionario</th>
+            <th>Nome do Usuario</th>
+        </tr>
+    </thead>
+
+    @{
+        foreach (var item in (List<ConsultaModel>)ViewBag.ListaConsulta)
+        {
+            <tbody>
+                <tr>
+                    <td><button type="button" class="btn btn-danger" onclick="Excluir(@item.Id.ToString())">Excluir</button></td>
+                    <td>@item.Id.ToString()</td>
+                    <td>@item.Nome_servico.ToString()</td>
+                    <td>@item.Tipo_servico.ToString()</td>
+                    <td>@item.Observacao.ToString()</td>
+                    <td>@item.Data_consulta.ToString()</td>
+                    <td>@item.Hora.ToString()</td>
+                    <td>@item.Nome_Cliente.ToString()</td>
+                    <td>@item.Forma_Pagamento.ToString()</td>
+                    <td>@item.Nome_Funcionario.ToString()</td>
+                    <td>@item.Nome_Usuario.ToString()</td>
+                </tr>
+            </tbody>
+        }
+    }
+
+</table>
+
+<button type="button" class="btn btn-block btn-primary" onclick="CriarServico()">Criar Consulta</button>
+
+<script>
+    function CriarServico() {
+        window.location.href = "../Consulta/CriarConsulta";
+    }
+
+    function Excluir(id_Servico) {
+        window.location.href = "../Servico/Excluir/" + id_Servico;
+    }
+</script>
+

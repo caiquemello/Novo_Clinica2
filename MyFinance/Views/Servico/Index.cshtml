@@ -1,0 +1,53 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Meus Serviços</h3>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Tipo</th>
+            <th>Valor</th>
+            <th>Observação</th>
+            <th>Data Serviço</th>
+            <th>Hora</th>
+        </tr>
+    </thead>
+
+    @{
+        foreach (var item in (List<ServicoModel>)ViewBag.ListaServico)
+        {
+            <tbody>
+                <tr>
+                    <td><button type="button" class="btn btn-danger" onclick="Excluir(@item.Id.ToString())">Excluir</button></td>
+                    <td>@item.Id.ToString()</td>
+                    <td>@item.Nome.ToString()</td>
+                    <td>@item.Tipo.ToString()</td>
+                    <td>R$ @item.Valor.ToString()</td>
+                    <td>@item.Observacao.ToString()</td>
+                    <td>@item.Data_Servico.ToString()</td>
+                    <td>@item.Hora.ToString()</td>
+                </tr>
+            </tbody>
+        }
+    }
+
+</table>
+
+<button type="button" class="btn btn-block btn-primary" onclick="CriarServico()">Criar Servico</button>
+
+<script>
+    function CriarServico() {
+        window.location.href = "../Servico/CriarServico";
+    }
+
+    function Excluir(id_Servico) {
+        window.location.href = "../Servico/Excluir/" + id_Servico;
+    }
+</script>
+

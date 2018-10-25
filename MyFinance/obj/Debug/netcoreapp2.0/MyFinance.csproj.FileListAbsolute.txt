@@ -1,0 +1,33 @@
+D:\UDEMY\MyFinance\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.deps.json
+D:\UDEMY\MyFinance\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.runtimeconfig.json
+D:\UDEMY\MyFinance\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.runtimeconfig.dev.json
+D:\UDEMY\MyFinance\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.dll
+D:\UDEMY\MyFinance\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.pdb
+D:\UDEMY\MyFinance\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.csprojResolveAssemblyReference.cache
+D:\UDEMY\MyFinance\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.csproj.CoreCompileInputs.cache
+D:\UDEMY\MyFinance\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.AssemblyInfoInputs.cache
+D:\UDEMY\MyFinance\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.AssemblyInfo.cs
+D:\UDEMY\MyFinance\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.dll
+D:\UDEMY\MyFinance\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.pdb
+D:\MyFinance\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.deps.json
+D:\MyFinance\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.runtimeconfig.json
+D:\MyFinance\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.runtimeconfig.dev.json
+D:\MyFinance\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.dll
+D:\MyFinance\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.pdb
+D:\MyFinance\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.csproj.CoreCompileInputs.cache
+D:\MyFinance\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.AssemblyInfoInputs.cache
+D:\MyFinance\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.AssemblyInfo.cs
+D:\MyFinance\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.dll
+D:\MyFinance\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.pdb
+D:\MyFinance\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.csprojResolveAssemblyReference.cache
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.deps.json
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.runtimeconfig.json
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.runtimeconfig.dev.json
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.dll
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\MyFinance\bin\Debug\netcoreapp2.0\MyFinance.pdb
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.csprojAssemblyReference.cache
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.csproj.CoreCompileInputs.cache
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.AssemblyInfoInputs.cache
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.AssemblyInfo.cs
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.dll
+C:\Users\Caique melo\Desktop\Novo_Projetos\MyFinance\MyFinance\obj\Debug\netcoreapp2.0\MyFinance.pdb

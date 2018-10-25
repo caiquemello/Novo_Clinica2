@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Formas de Pagamento</h3>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>ID</th>
+            <th>Tipo</th>
+        </tr>
+    </thead>
+
+    @{
+        foreach (var item in (List<PagamentoModel>)ViewBag.ListaPagamento)
+        {
+            <tbody>
+                <tr>
+                    <td><button type="button" class="btn btn-danger" onclick="Excluir(@item.Id.ToString())">Excluir</button></td>
+                    <td>@item.Id.ToString()</td>
+                    <td>@item.Descricao.ToString()</td>
+                </tr>
+            </tbody>
+        }
+    }
+
+</table>
+
+<button type="button" class="btn btn-block btn-primary" onclick="CriarPagamento()">Criar Pagamento</button>
+
+<script>
+    function CriarPagamento() {
+        window.location.href = "../Pagamento/CriarPagamento";
+    }
+
+    function Excluir(id_Pagamento) {
+        window.location.href = "../Pagamento/ExcluirPagamento/" + id_Pagamento;
+    }
+</script>

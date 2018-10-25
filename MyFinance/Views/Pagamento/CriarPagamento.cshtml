@@ -1,0 +1,19 @@
+﻿@model PagamentoModel
+
+@{
+    ViewData["Title"] = "CriarConta";
+}
+
+<h3>Criar Pagamento</h3>
+
+<form asp-controller="Pagamento" asp-action="CriarPagamento">
+
+    <div class="form-group">
+        <label>Forma de pagamento:</label>
+        <input type="text" class="form-control" asp-for="Descricao">
+        <span asp-validation-for="Descricao" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-block btn-success">Registrar Pagamento</button>
+
+</form>
+
